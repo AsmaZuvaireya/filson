@@ -1,0 +1,145 @@
+.row [class^="col-md-*"] {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.main_img {
+    width: 280px;
+    height: 278px;
+    position: relative;
+    left: 54px;
+    margin: 16px 40px
+}
+
+.footer_img {
+    width: 80px;
+    height: 80px;
+}
+
+.footer {
+    margin: 12px 56px;
+}
+
+.attr_color.p {
+    position: relative;
+    top: 3px;
+    margin: 1px;
+}
+
+.attr_size.p {
+    position: relative;
+    bottom: 68px;
+    left: 521px;
+}
+
+.circle {
+    height: 25px;
+    width: 25px;
+    border-radius: 12px;
+    background-color: blue;
+    margin: 4px;
+}
+
+.circle {
+    display: inline-block;
+}
+
+.bottom {
+    border: 1px solid blue transparent;
+    height: 70%;
+}
+
+.top {
+    border: 1px solid transparent;
+    height: 30%;
+}
+
+.heading {
+    font-size: 22px;
+    position: relative;
+    left: 96px;
+    top: 6px;
+    margin: 14px;
+}
+
+.description {
+    width: 74%;
+    position: relative;
+    left: 42px;
+    ;
+}
+
+a {
+    position: relative;
+    bottom: 30px;
+    left: 142px;
+}
+
+.journey {
+    position: relative;
+    left: 56px;
+}
+
+.price {
+    font-size: 17px;
+    position: relative;
+    bottom: 14px;
+    left: 108px;
+}
+
+.bag_color {
+    position: relative;
+    top: 8px;
+    left: 57px;
+}
+
+.bag_size {
+    position: relative;
+    bottom: 60px;
+    left: 202px;
+}
+
+.size {
+    position: relative;
+    bottom: 62px;
+    left: 176px;
+}
+
+.ok_icon {
+    position: relative;
+    top: -9px;
+    left: 26px;
+    color: white;
+}
+
+button {
+    background-color: #FFA500;
+    width: 55%;
+    margin: 10px 0px;
+}
+
+.btn_grp {
+    position: relative;
+    bottom: 53px;
+    left: 57px;
+}
+
+.image {
+    position: relative;
+    left: 277px;
+    top: 73px;
+}
+
+.about {
+    position: relative;
+    left: 257px;
+    top: 61px;
+}
+
